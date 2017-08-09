@@ -1,0 +1,199 @@
+/*Start main rules*/
+
+body {
+    background-color: #FAFCFE;
+    font-size: 16px;
+}
+
+.btn {
+    margin: 2px;
+}
+
+.msg {
+    margin-top: 50px
+}
+
+/*End main rules*/
+
+/*  Start Login form  */
+
+.login {
+    width: 400px;
+    margin: 100px auto;
+}
+
+.login h1 {
+    color: #666;
+    margin-bottom: 50px
+}
+
+.login input {
+    margin-bottom: 10px;
+}
+
+.login .form-control {
+    background-color: #EAEAEA;
+}
+
+/*  End Login form  */
+
+/*Start Bootstrap edits*/
+
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+    background-color: #00A7B2;
+    padding: 5px;
+
+}
+
+.nav > li > a,
+.navbar-brand {
+    padding: 15px 12px
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: #FFF;
+    font-size: 17px;
+}
+
+.navbar-default .navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+/*End Bootstrap edits*/
+
+/* Start Dashboard Page */
+
+.dashboard{
+    margin-bottom: 40px;
+}
+
+.dashboard .row1 {
+    padding-top: 20px;
+}
+
+.dashboard .s {
+    border-right: 2px solid #ddd;
+}
+
+.s-head {
+    background-color: #00A7B2;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+}
+
+.s-body {
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+}
+
+.s-body:hover {
+    background-color: #00CEB4;
+    cursor: pointer;
+}
+
+.t-head {
+    background-color: #E74C3C;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+}
+
+.t-body {
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+}
+
+.t-body:hover {
+    background-color: #00CEB4;
+    cursor: pointer;
+}
+
+.dashboard .panel-body{
+    height:400px;
+    overflow: scroll;
+}
+
+/* End Dashboard Page */
+
+/* Start students Page */
+
+.manage {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-top: 35px;
+}
+
+.table-striped .t-head {
+    background-color: #FAFCFE;
+}
+
+.add div {
+    margin-top: 5px;
+}
+
+/* End students Page */
+
+/* Start teachers page*/
+
+.t_class {
+    margin-bottom: 10px;
+}
+
+/*  End teachers page */
+
+h {
+    font-size: 60px;
+    margin: 40px 0;
+    font-weight: bold;
+    color: #555;
+}
+
+.asterisk {
+    position: absolute;
+    font-size: 30px;
+    right: 0px;
+    top: 10px;
+    color: #dd3333
+
+}
+
+.main-table tr:first-child {
+    background-color: #333;
+    color: #fff
+}
+
+.selectboxit-container span,
+.selectboxit-container .selectboxit-options a {
+    height: 46px;
+    line-height: 46px;
+    overflow: hidden;
+    font-size: 15px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
